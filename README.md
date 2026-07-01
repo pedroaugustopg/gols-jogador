@@ -1,4 +1,4 @@
-# Informações de Jogador
+# Informações de jogador
 
 Exibe informações sobre um jogador de futebol, incluindo nome e quantidade de gols marcados.
 
