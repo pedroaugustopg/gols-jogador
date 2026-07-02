@@ -25,7 +25,6 @@ public class Main {
         } else {
             Jogador.fichaJogador(nome, gols);
         }
-
         scanner.close();
     }
 }
